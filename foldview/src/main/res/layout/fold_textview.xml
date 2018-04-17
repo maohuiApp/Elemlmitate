@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="qwertyuuiopasdfghjkl;;'/,bvcvxfwer213sdf4we45764t41g23f1g54156b418t4h52t1y21fdh5yru412f1dh2b05w1rqw412v0xc21v0"
+    android:ellipsize="end"
+    />

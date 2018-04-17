@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ItemView">
+        <attr name="fold_title" format="string"/>
+        <attr name="fold_type">
+            <enum name="BRAND" value="0" />
+            <enum name="NOTICE" value="1" />
+            <enum name="DISCOUNTS" value="2" />
+        </attr>
+    </declare-styleable>
+</resources>
